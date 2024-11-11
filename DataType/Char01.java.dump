@@ -1,0 +1,6 @@
+//测试char   字符
+public class Char01{
+	public static void main (String[] args){
+		System.out.println("测试char  字符用法");
+	}
+}
