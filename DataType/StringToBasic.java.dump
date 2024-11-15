@@ -1,0 +1,10 @@
+//String转成基本数据类型
+
+public class StringToBasic{
+	public static void main(String[] args){
+		//使用 基本数据类型 对应的包装类，的相应方法，得到基本数据类型。
+		String s1 = "123";
+		short num1 = Short.parseShort(s1);
+		System.out.println("num1 =" + num1);
+	}
+}

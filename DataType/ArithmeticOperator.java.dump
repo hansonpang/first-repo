@@ -1,0 +1,17 @@
+//测试算术运算符
+public class ArithmeticOperator{
+	public static void main(){
+		//  /使用
+		System.out.println(10/4);  //从数学看是2.5，java中是2
+		System.out.println(10.0/4); //java是2.5
+		double d = 10/4;  //java中10/4=2    double类型就是2.0
+		System.out.println("d = " + d);
+
+
+		//%取模，取余
+		System.out.println( 10 % 3);  // 1
+		System.out.println(-10 % 3); //(-10)-(-10)/3*3=(-10)-(-9)=-1
+		System.out.println(10 % -3); //10-10/(-3)*(-3)=10-9=1
+		System.out.println(-10 % -3); //(-10)-(-10)/(-3)*(-3)=-10-(-9)=-1
+	}
+}
