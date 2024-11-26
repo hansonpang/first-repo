@@ -1,0 +1,42 @@
+//Return测试
+public class ReturnExercise{
+	public static void main(String[] args){
+		// int a=0,b=100000;
+		// while(b>50000){
+		// 	b = b * ((100 - 5)/100);
+		// 	a++;
+		// 	if(b<=50000){
+		// 		break;
+		// 	}
+		// }
+
+
+		// while((b<=50000)&&(b>0)){
+		// 	b = b - 1000;
+		// 	if(b<0){
+		// 		break;
+		// 	}
+		// 	a++;
+		// }
+
+		// double money = 100000;
+		// int count = 0;
+		// while(true){
+		// 	if(money>50000){
+		// 		money *= 0.95;
+		// 		count++;
+		// 	}else if(money >= 1000){
+		// 		money -=1000;
+		// 		count++;
+		// 	}else{
+		// 		break;
+		// 	}
+		// }
+
+		// System.out.println("该人可以经过  " + count + " 次路口！" );
+
+
+
+		
+	}
+}
