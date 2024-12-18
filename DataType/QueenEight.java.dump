@@ -1,0 +1,15 @@
+//8皇后游戏
+//游戏规则：在8X8格的国际象棋上摆放八个皇后，使其不能互相攻击，即：任意两个皇后都不能处于同一行、同一列或同一斜线上，问有多少种摆法。
+
+public class QueenEight{
+	public static void main(String[] args){
+
+	}
+}
+
+class Queen{
+	public void numberOfTimes(){
+		//定义一个一维数组，记录正确的摆放顺序
+		int[] arr = int[8];
+	}
+}
